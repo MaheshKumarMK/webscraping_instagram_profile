@@ -15,12 +15,17 @@ You are requested to scrap 50 profiles from Instagram fitting the brief given be
 1.	Filtering Profiles: Firstly, we will use advanced Google search to filter out the profiles based on the website, location, and the keyword "fitness coach" or "fitness trainer". This will help us to obtain a list of Instagram usernames for fitness coaches and trainers located in the USA.
 2.	Scraping Profiles: Next, we will use web scraping techniques to extract the Instagram profiles from the Google search results. We will extract the usernames from the search results and store them in a list.
 
-After webscraping the profiles from Instagram and storing them in a list of dictionaries, the next step is to convert this list into a pandas dataframe for further analysis and processing. 
-This can be done using the pandas library in Python.
-Once the list is converted to a dataframe, we can remove any duplicate profiles using the drop_duplicates() method. 
-This will ensure that we have a unique list of profiles for our further analysis.
-After removing the duplicates, we can extract the profile names from the dataframe and store them in a list format. 
-This list of profile names can then be used for further processing such as checking their follower count, bio, and location.
+- After webscraping the profiles from Instagram and storing them in a list of dictionaries, the next step is to convert this list into a pandas dataframe for further analysis and processing. 
+
+- This can be done using the pandas library in Python.
+
+- Once the list is converted to a dataframe, we can remove any duplicate profiles using the drop_duplicates() method. 
+
+- This will ensure that we have a unique list of profiles for our further analysis.
+
+- After removing the duplicates, we can extract the profile names from the dataframe and store them in a list format. 
+
+- This list of profile names can then be used for further processing such as checking their follower count, bio, and location.
 
 3.	Automating the Task: Once we have the list of Instagram usernames, we will automate the task by,
 -	 logging into Instagram
