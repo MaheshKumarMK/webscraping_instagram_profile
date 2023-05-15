@@ -1,6 +1,6 @@
 # webscraping_task
 
-![alt text]([image URL](https://thumbs.dreamstime.com/z/group-smiling-people-sport-uniform-holding-word-fitness-cartoon-colorful-vector-illustration-group-smiling-people-125210734.jpg))
+![alt text](fitness.jpg)
 
 # Assignment:
 You are requested to scrap 50 profiles from Instagram fitting the brief given below:
