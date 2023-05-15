@@ -1,12 +1,15 @@
 # webscraping_task
-Assignment:
+
+![alt text]([image URL](https://thumbs.dreamstime.com/z/group-smiling-people-sport-uniform-holding-word-fitness-cartoon-colorful-vector-illustration-group-smiling-people-125210734.jpg))
+
+# Assignment:
 You are requested to scrap 50 profiles from Instagram fitting the brief given below:
 •	Target Profiles: Keyword "Fitness Coach" in their Bio
 •	Geography: USA
 •	Followers: 50,000+
 
-Objective: The goal of this project is to extract Instagram profiles of fitness coaches/trainers located in the USA and having more than 50,000 followers.
-Methodology: To achieve this goal, we will follow the following steps:
+# Objective: The goal of this project is to extract Instagram profiles of fitness coaches/trainers located in the USA and having more than 50,000 followers.
+## Methodology: To achieve this goal, we will follow the following steps:
 1.	Filtering Profiles: Firstly, we will use advanced Google search to filter out the profiles based on the website, location, and the keyword "fitness coach" or "fitness trainer". This will help us to obtain a list of Instagram usernames for fitness coaches and trainers located in the USA.
 2.	Scraping Profiles: Next, we will use web scraping techniques to extract the Instagram profiles from the Google search results. We will extract the usernames from the search results and store them in a list.
 
