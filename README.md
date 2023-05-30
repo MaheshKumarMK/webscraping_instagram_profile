@@ -1,6 +1,5 @@
 # webscraping_task
 
-![alt text](fitness.jpg)
 
 # Assignment:
 You are requested to scrap 50 profiles from Instagram fitting the brief given below:
